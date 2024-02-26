@@ -362,11 +362,10 @@ color: antiquewhite;
 .nav-left a{
 font-size: 20px;
 margin-bottom: 5px;
-margin-left: 0px;
+margin-left: 10px;
 }
 nav{
     padding:10px 20px 10px  20px;
-    margin-left: -40px;
 }
 
 hr{
@@ -382,7 +381,7 @@ width: 100%;}
 .right-header{
 width: 100%;}
 .about-mee{
-margin-left: -50px;
+margin-left: -40px;
 }
 .left-header .icon-header ul li a i{
     width: 100%;
@@ -403,6 +402,7 @@ width: 100%;
 }
 .right-about{
 width: 80%;
+text-align: center;
 
 }
 .skill{
@@ -438,7 +438,6 @@ width: 100%;
 }
 .left-contact{
     width: 100%;
-    margin-left: -40px;
 }
 .left-contact img{
     max-width: 100%;
